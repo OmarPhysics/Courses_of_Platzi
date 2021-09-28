@@ -1,2 +1,2 @@
-# Courses_of_Platzi
-Here you will find theory and activities from courses of Platzi about Machine Learning and Data Science 
+# Platzi Courses
+Here you will find theory and activities from Platzi courses about Machine Learning and Data Scienc.
